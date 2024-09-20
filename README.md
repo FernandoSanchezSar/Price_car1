@@ -5,7 +5,7 @@ El objetivo de la presente aplicación es comprender qué factores hacen que un 
 
 ## Técnicas usadas en la aplicación
 Las técnicas que se han usado son: Sequential Feature Selection con estimator LinearRegresion(), Sequential Feature Selection con estimator Lasso(), Regularización Ridge, Regularización Lasso y Permutation Importance para cada uno de los modelos antes indicados.<br>
-En este [link](https://github.com/FernandoSanchezSar/Kraftwerk/blob/main/prompt.ipynb) se encuentra el Jupiter notebook donde se han desarrollado los modelos.
+En este [link](https://github.com/FernandoSanchezSar/Price_car1/blob/main/prompt_II.ipynb) se encuentra el Jupiter notebook donde se han desarrollado los modelos.
 
 ## Resumen de los hallazgos
 Consideramos que el modelo Regularización de Lasso se encuentra mas alineado a los datos de vehículos usados.<br>
